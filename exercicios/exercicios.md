@@ -5,9 +5,7 @@
 
 # Let's do this
 
-Olá, estamos chegando em mais um período de revisão, passa <s>muito</s> rápido, não é mesmo?
-
-Atentando-se ao fato de sempre validarmos o conteúdo visto até determinado ponto do nosso curso, iremos trabalhar em um projeto desenvolvido por vocês (novamente).
+Para aprender, nada melhor do que por a mão na massa, correto? Então vamos lá, hora de exercitar!
 
 ## Tema
 
@@ -49,9 +47,3 @@ Passo-a-passo com a mão no <s>massa</s> código:
 ### Postman
 
 Essa ferramenta permite testar serviços RESTful por meio do envio de requisições HTTP e da análise do seu retorno. Você pode salvar todas as suas _collections_ e facilitar o seu dia-a-dia como pessoa desenvolvedora!
-
-### Github
-
-Não podemos esquecer aquele commit bonitão para mostrar todo o esforço de vocês, não é mesmo?
-
----
