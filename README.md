@@ -1,13 +1,7 @@
 <h1 align="center">
     <br>
-    <p align="center">Reprograma - Semana 11 (Revisão)<p>
+    <p align="center">Jansens Films - Api Rest Nodejs<p>
 </h1>
-
-Olá, sejam bem-vindas a Semana 11 de revisão! Meu nome é Vanessa Jansen (@jansenvanessa), sou instrutora da Reprograma e irei acompanhar vocês nessa semana.
-
-# Vamos recordar!
-
-Quantas coisas novas já aprendemos sobre uma API Nodejs, não é mesmo?! Muitas novidades, bastante código e muita caminhada para chegarmos até aqui. Que tal fazermos uma breve retrospectiva? Então vamos lá!
 
 ## O que é uma API REST?
 
@@ -195,7 +189,7 @@ const router = express.Router()
 
 router.get("/", function (req, res) {
     res.status(200).send({
-        title: "Reprograma - On7 Semana 11 - Projeto Revisão",
+        title: "Minha API Rest Nodejs",
         version: "1.0.0"
     })
 })
@@ -614,9 +608,3 @@ Desenvolvemos todas as rotas necessárias para nosso produto do Jansen's Films. 
 Agora que nossa API está implementada, podemos e devemos exercitar! Será que podemos melhorar nosso código? Temos linhas se códigos repetidas que poderiam virar funções e serem reaproveitadas? Sempre há algo para melhorar, então fique a vontade para mexer e melhorar o código!
 
 Espero que tenha gostado da atividade e o segredo é praticar!!! Quanto mais exercícios fizer, melhor :) Abs e até mais!
-
----
-
-# Para saber mais
-
-Durante a aula acabamos aprendendo alguns conteúdos extras. Para não misturar com o conteúdo proposto na aula, coloquei esses em um arquivo separado: https://github.com/reprograma/on7-porto-s11-projeto-revisao/blob/master/ConteudoAdicional.md
