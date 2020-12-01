@@ -150,7 +150,7 @@ const deleteMovie = (req, res) => {
 
 ## Encontrando o item mais barato
 
-Podemos desenvolver um algorítmo utilizando arrays, onde conseguiremos encontrar o item mais barato do nosso array. Para testar o código abaixo na sua máquina, basta baixar o arquivo https://github.com/reprograma/on7-porto-s11-projeto-revisao/blob/master/exercicios/ordenaItens.js . Feito isso, só rodá-lo pelo terminal. Para isso acesse pelo terminal a pasta onde ele estiver no seu computador e rode: *node ordenaItens.js*
+Podemos desenvolver um algorítmo utilizando arrays, onde conseguiremos encontrar o item mais barato do nosso array. Para testar o código abaixo na sua máquina, basta baixar o arquivo https://github.com/jansenvanessa/jansensfilms-api-rest-nodejs/blob/master/exercicios/ordenaItens.js . Feito isso, só rodá-lo pelo terminal. Para isso acesse pelo terminal a pasta onde ele estiver no seu computador e rode: *node ordenaItens.js*
 
 ```maisBarato.js
 const run = () => {
