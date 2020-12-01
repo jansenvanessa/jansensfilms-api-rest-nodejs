@@ -1,7 +1,7 @@
 {
-  "name": "on7-porto-s11-projeto-revisao",
+  "name": "jansensfilms-api-rest-nodejs",
   "version": "1.0.0",
-  "description": "## Revisão + Exercícios GET, POST, PUT, DELETE e PATCH Por: @jansenvanessa",
+  "description": "## Aula de API Rest Nodejs Por: @jansenvanessa",
   "main": "server.js",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1",
@@ -9,14 +9,14 @@
   },
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/reprograma/on7-porto-s11-projeto-revisao.git"
+    "url": "git+https://github.com/jansenvanessa/jansensfilms-api-rest-nodejs.git"
   },
   "author": "Vanessa Jansen",
   "license": "ISC",
   "bugs": {
-    "url": "https://github.com/reprograma/on7-porto-s11-projeto-revisao/issues"
+    "url": "https://github.com/jansenvanessa/jansensfilms-api-rest-nodejs/issues"
   },
-  "homepage": "https://github.com/reprograma/on7-porto-s11-projeto-revisao#readme",
+  "homepage": "https://github.com/jansenvanessa/jansensfilms-api-rest-nodejs#readme",
   "dependencies": {
     "express": "^4.17.1",
     "fs": "0.0.1-security",
